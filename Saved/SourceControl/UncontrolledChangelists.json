@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GASLearn/Content/Assets/Characters/Aura/SKM_Aura.uasset",
+				"D:/GASLearn/Content/Assets/Characters/Aura/Materials/M_Eyes.uasset",
+				"D:/GASLearn/Content/Assets/Characters/Aura/Materials/M_Hair.uasset",
+				"D:/GASLearn/Content/Assets/Characters/Aura/Materials/M_Tunic.uasset",
 				"E:/Courses/Druid Mechanics Courses/GAS Official/Startup Project 5_2_0/Aura/Content/Assets/UI/Pickups/T_HealthCrystal.uasset",
 				"E:/Courses/Druid Mechanics Courses/GAS Official/Startup Project 5_2_0/Aura/Content/Assets/UI/Pickups/T_ManaCrystal.uasset",
 				"E:/Courses/Druid Mechanics Courses/GAS Official/Startup Project 5_2_0/Aura/Content/Assets/UI/Pickups/T_Potion_Blue.uasset",
